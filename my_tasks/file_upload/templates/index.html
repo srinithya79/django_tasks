@@ -1,0 +1,11 @@
+<form method="POST" novalidate
+                    enctype="multipart/form-data"
+    {% csrf_token %}
+
+    {{uf.errors}} <br>
+    {{uf.file}}
+
+
+    <button>submit</button>
+
+</form>

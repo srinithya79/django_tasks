@@ -1,0 +1,13 @@
+python -m venv django-env
+
+django-env\Scripts\activate.bat
+
+pip install django
+
+django-admin manage.py startproject tasks
+
+cd tasks
+
+python manage.py runserver
+
+python manage.py startapp firstapp 

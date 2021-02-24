@@ -19,8 +19,7 @@ Django Queryset return some important concept
 4. Field lookups
 5. Aggregation Functions
 
-
-Here in the post we will see some important queries in Django like
+important queries in Django like
 
 1. Create objects
 2. Retrieving objects
@@ -36,9 +35,6 @@ Important built-in Models Fields Types in Django
 
 
 Django series
-
-In this post we will see
-
 1. what is models in Django
 2. How to define our model
 3. How to create our model
@@ -47,11 +43,11 @@ In this post we will see
 
 
 
-How to create your own custom filters in Django Template Language
+How to create own custom filters in Django Template Language
 
 Very useful built-in filter in Django
 
-how we create our own custom template tags in django
+how we create own custom template tags in django
 
 tags in DTL and important tags in DTL (django templates language)
 
