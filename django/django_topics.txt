@@ -1,0 +1,60 @@
+Uploads file in Django
+
+How to Authenticate with Github using Django
+
+Image uploader web application using Django
+
+Methods that don't return new Queryset in Django
+
+Methods that returns a new Queryset
+
+
+What is Queryset API in Django
+
+Django Queryset return some important concept
+
+1. Methods that return new Queryset
+2. Method that don't return new Queryset
+3. Operators that return new Queryset
+4. Field lookups
+5. Aggregation Functions
+
+
+Here in the post we will see some important queries in Django like
+
+1. Create objects
+2. Retrieving objects
+3. Updating objects
+4. Deleting objects
+
+Common model Field argument in Django
+
+What is Model Meta in Django
+
+
+Important built-in Models Fields Types in Django
+
+
+Django series
+
+In this post we will see
+
+1. what is models in Django
+2. How to define our model
+3. How to create our model
+4. How to Update our model
+5. How to register our model in admin panel
+
+
+
+How to create your own custom filters in Django Template Language
+
+Very useful built-in filter in Django
+
+how we create our own custom template tags in django
+
+tags in DTL and important tags in DTL (django templates language)
+
+How to integrate Facebook comments on Django sites
+
+How to authenticate with Google using Django
