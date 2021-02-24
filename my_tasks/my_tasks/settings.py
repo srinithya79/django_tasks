@@ -23,20 +23,22 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = '7(_@#qoy=*wd(ai#vy_g&!zh^nm40c*-=p48vk1zkz%#kzw9i('
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
 
 INSTALLED_APPS = [
+    'file_upload',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    
 ]
 
 MIDDLEWARE = [

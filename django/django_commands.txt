@@ -4,10 +4,14 @@ django-env\Scripts\activate.bat
 
 pip install django
 
-django-admin manage.py startproject tasks
+django-admin startproject my_tasks
 
 cd tasks
 
 python manage.py runserver
 
-python manage.py startapp firstapp 
+python manage.py startapp file_upload 
+
+
+python manage.py makemigrations
+python manage.py migrate
